@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.t2">
     <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="1.processes_and_threads" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,8 +67,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1.processes_and_threads" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.t2" />
         <item itemvalue="Python.t1" />
       </list>
     </recent_temporary>
@@ -94,24 +116,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1601303176461">
-      <screen x="78" y="0" width="2994" height="1728" />
+    <state width="1023" height="351" key="GridCell.Tab.0.bottom" timestamp="1605945082273">
+      <screen x="75" y="0" width="1632" height="1067" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.bottom/-1822.0.1822.1080/78.0.2994.1728@78.0.2994.1728" timestamp="1601303176461" />
-    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1601303176460">
-      <screen x="78" y="0" width="2994" height="1728" />
+    <state width="1023" height="351" key="GridCell.Tab.0.bottom/75.0.1632.1067@75.0.1632.1067" timestamp="1605945082273" />
+    <state width="1023" height="351" key="GridCell.Tab.0.center" timestamp="1605945082273">
+      <screen x="75" y="0" width="1632" height="1067" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.center/-1822.0.1822.1080/78.0.2994.1728@78.0.2994.1728" timestamp="1601303176460" />
-    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1601303176460">
-      <screen x="78" y="0" width="2994" height="1728" />
+    <state width="1023" height="351" key="GridCell.Tab.0.center/75.0.1632.1067@75.0.1632.1067" timestamp="1605945082273" />
+    <state width="1023" height="351" key="GridCell.Tab.0.left" timestamp="1605945082273">
+      <screen x="75" y="0" width="1632" height="1067" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.left/-1822.0.1822.1080/78.0.2994.1728@78.0.2994.1728" timestamp="1601303176460" />
-    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1601303176461">
-      <screen x="78" y="0" width="2994" height="1728" />
+    <state width="1023" height="351" key="GridCell.Tab.0.left/75.0.1632.1067@75.0.1632.1067" timestamp="1605945082273" />
+    <state width="1023" height="351" key="GridCell.Tab.0.right" timestamp="1605945082273">
+      <screen x="75" y="0" width="1632" height="1067" />
     </state>
     <state width="1358" height="243" key="GridCell.Tab.0.right/-1822.0.1822.1080/78.0.2994.1728@78.0.2994.1728" timestamp="1601303176461" />
+    <state width="1023" height="351" key="GridCell.Tab.0.right/75.0.1632.1067@75.0.1632.1067" timestamp="1605945082273" />
     <state x="1043" y="730" width="1275" height="710" key="SettingsEditor" timestamp="1601302023337">
       <screen x="78" y="0" width="2994" height="1728" />
     </state>
